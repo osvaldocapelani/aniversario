@@ -2,7 +2,7 @@
 
 <p>Para adquirir o ingresso, primeiro faça a reserva da sua mesa, enviando uma mensagem via whatsapp para xx-xxxxx-xxxx</p>
 <p>
-    Em seguida faça o depósito na:<br />
+    Em seguida faça o <strong>depósito identificado</strong> na:<br />
     C/C: 37.669-8<br />
     Agência: 3037-6<br />
     Banco do Brasil<br />
@@ -11,12 +11,32 @@
     CNPJ: 25.196.005/0001-62<br />
 </p>
 <p>Após realizar o depósito, envie nova mensagem com imagem do comprovante, ou arquivo .pdf do comprovante e sua identificação, para o whatsaap xx-xxxxx-xxxx</p>
-<p>O pagamento somente será validado após identificação no extrato da conta bancária, por isso é importante enviar o comprovante e se identificar.</p>
+<p>O pagamento somente será validado após identificação no extrato da conta bancária, por isso é importante enviar o comprovante e se identificar na hora da realização do depósito.</p>
 <p>Abaixo você pode acompanhar o mapa das mesas da festa.</p>
 <p>Não deixe para a última hora.</p>
 <p>As confirmações das mesas serão feitas em ordem de recebimento do comprovante de depósito recebidos no whatsapp.</p>
 
-    <table align="center">
+<table align="center">
+    <tr>
+        <td>
+            <p style="text-align:center;"><strong>Legenda</strong></p>
+        </td>
+    </tr>
+    <tr>
+        <td><img src="./images/mesaGreen.png" alt="icone de mesa"></td>
+        <td>Mesa Livre</td>        
+    </tr>
+    <tr>
+        <td><img src="./images/mesaOrange.png" alt="icone de mesa"></td>
+        <td>Mesa Aguardando Confirmação de Pagamento</td>
+    </tr>
+    <tr>
+        <td><img src="./images/mesaRed.png" alt="icone de mesa"></td>
+        <td>Mesa Confirmada</td>
+    </tr>
+</table>
+<hr />
+<table align="center">
         <tr>
             <td colspan="3">
                 <img src="./images/buffet.svg" alt="">
@@ -64,12 +84,13 @@
             </td>
 
         </tr>
-<tr>
-    <td colspan="3">
-        <img src="./images/pista.svg" alt="">
-    </td>
-</tr>
-    </table>
+    <tr>
+        <td colspan="3">
+            <img src="./images/pista.svg" alt="">
+        </td>
+    </tr>
+</table>
+    
 
 
 

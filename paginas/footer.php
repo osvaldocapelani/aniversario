@@ -1,9 +1,15 @@
+
 <div class="container">
 
       <!-- FOOTER -->
       <footer>
         <p class="pull-right"><a href="#">Voltar ao topo</a></p>
         <p>&copy; 2018 IFMT <em>Campus</em> São Vicente,  &middot; <a href="#">ASCOM</a> &middot; <a href="#">CTI</a></p>
+        <p>
+        <strong>REALIZAÇÃO</strong><br />
+        <em>Comissão do 75º Aniversário</em><br />
+        <em>Comissão de Formatura dos cursos de Agronomia e Zootecnia</em>
+        </p>
       </footer>
 
 </div><!-- /.container -->
