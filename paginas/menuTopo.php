@@ -11,14 +11,17 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="#"><img src="images/brand.svg"></a>
+                    <a class="navbar-brand" href="./"><img src="images/brand.svg"></a>
                 </div>
                 <div id="navbar" class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
-                        <li class="active"><a href="#">Início</a></li>
-                        <li><a href="#about">História</a></li>
-                        <li><a href="#contact">Contato</a></li>
-                        <li><a href="#contact">Ingressos</a></li>
+                        <li><a href="?p=historia">História</a></li>
+                        <li><a href="?p=fotosAntigas">Fotos Antigas</a></li>
+                        <li><a href="?p=programacao">Programação</a></li>
+                        <li><a href="?p=hoteis">Hotéis</a></li>
+                        <li><a href="?p=ingressos">Adquira seu ingresso</a></li>
+                        <li><a href="?p=fotos">Fotos da festa</a></li>
+                        <li><a href="?p=contato">Contato</a></li>
                         <!--
                         <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>

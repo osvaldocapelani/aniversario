@@ -29,5 +29,6 @@
 
     <!-- Custom styles for this template -->
     <link href="carrossel.css" rel="stylesheet">
+    <link href="css/estilomesas.css" rel="stylesheet">
   </head>
   <body>

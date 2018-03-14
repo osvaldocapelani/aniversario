@@ -1,0 +1,36 @@
+.mesagreen{
+            float: left;
+            background: url(../images/mesaGreen.png) bottom right;
+            width: 41px;
+            height: 41px;
+            margin-left: 5px;
+        }
+        .mesaorange{
+            float: left;
+            background: url(../images/mesaOrange.png) bottom right;
+            width: 41px;
+            height: 41px;
+            margin-left: 5px;  
+        }
+        .mesared{
+            float: left;
+            background: url(../images/mesaRed.png) bottom right;
+            width: 41px;
+            height: 41px;
+            margin-left: 5px;
+        }
+        .textomesa{
+            padding-top: 9px;
+            text-align: center;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        .clear {
+             clear: left;
+             height:10px;
+        }
+        .corredor{
+            background: url(../images/corredor.svg);
+            width: 50px;
+            height: 100%;
+        }
