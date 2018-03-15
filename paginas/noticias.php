@@ -4,11 +4,23 @@
 
   <div class="row featurette">
     <div class="col-md-7">
-      <h2 class="featurette-heading">O que é Lorem Ipsum?</h2>
-      <p class="lead">Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos, e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos e os embaralhou para fazer um livro de modelos de tipos. Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica, permanecendo essencialmente inalterado. Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum, e mais recentemente quando passou a ser integrado a softwares de editoração eletrônica como Aldus PageMaker.</p>
+      <h2 class="featurette-heading">Hino da Escola</h2>
+      <h3>Hino do IFMT Câmpus São Vicente</h3>
+      <p><em>Letra: Áureo Lino da Silva<br />Música: Mestre Albertino</em></p>
+      <p class="lead">
+        No alto desta serra alcandorada<br />
+        Do grande pantanal plantado a beira,<br />
+        A escola há de crescer abençoada,<br />
+        Tal como firme e impávida palmeira.<br />
+        Gustavo Dutra, educandário amigo,<br />
+        É a nossa escola e nosso lar também,<br />
+        Que ensina separar do joio o trigo... <a href="?p=hino">Leia mais</a>
+      </p>
     </div>
     <div class="col-md-5">
-      <img src="images/500.svg " alt="Generic placeholder image">
+      <p class="pull-right">
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/kySIxPnQfQk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+      </p>
     </div>
   </div>
 
@@ -38,6 +50,6 @@
 
 </div><!-- Final container marketing -->
 
-<hr class="featurette-divider">
+
 
 <!-- /END THE FEATURETTES -->

@@ -12,7 +12,7 @@
     CNPJ: 25.196.005/0001-62<br />
 </p>
 <p>Após realizar o depósito, envie nova mensagem com imagem do comprovante, ou arquivo .pdf do comprovante e sua identificação, para o whatsaap xx-xxxxx-xxxx</p>
-<p>Seu nome aparecerá na lista de apoiadores da festa, por isso é importante realizar o depósito identificado para ajudar nossa festa a ficar cada vez mais bonita.</p>
+<p>Seu nome aparecerá na lista de patrocinadores da festa, por isso é importante realizar o depósito identificado para ajudar nossa festa a ficar cada vez mais bonita.</p>
 
-<hr />
+
 </div>

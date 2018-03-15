@@ -11,7 +11,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="./"><img src="images/brand.svg"></a>
+                    <a class="navbar-brand" href="./"><img src="images/ico.svg"></a>
                 </div>
                 <div id="navbar" class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
@@ -23,6 +23,7 @@
                         <li><a href="?p=fotos">Fotos da festa</a></li>
                         <li><a href="?p=colabore">Colabore</a></li>
                         <li><a href="?p=contato">Contato</a></li>
+                        <li><a href="?p=patrocinio">Patrocínio</a></li>
                         <!--
                         <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>

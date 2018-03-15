@@ -1,6 +1,7 @@
 <div class="container">
 
 <article>
+    <h1>Hino da Escola</h1>
     <p>
     <img style="float: right;" src="http://svc.ifmt.edu.br/media/filer_public_thumbnails/filer_public/4c/8d/4c8d65f7-3181-4dfb-9f76-cbad3a8fcf68/sao_vicente_-_vista_aerea.jpg__1000x0_q85_crop_subsampling-2.jpg" alt="Vista a&eacute;rea do IFMT C&acirc;mpus S&atilde;o Vicente" width="352" height="234" />
     A Origem e Hist&oacute;ria dos IF&rsquo;s - Institutos Federais de Educa&ccedil;&atilde;o, Ci&ecirc;ncia e Tecnologia insere-se e comp&otilde;e o processo de transforma&ccedil;&atilde;o socioecon&ocirc;mico e cultural do pa&iacute;s desde o inicio do s&eacute;culo passado, mais precisamente desde 23 de setembro de 1909, quando o Governo Federal criou por meio do Decreto n&ordm; 7.566, a Rede Federal de Educa&ccedil;&atilde;o Profissional e Tecnol&oacute;gica, instituindo um conjunto de &ldquo;<strong>Escolas de Aprendizes e Art&iacute;fices</strong>&rdquo;, destinadas ao ensino profissional prim&aacute;rio e gratuito com o intuito de prover as necessidades e diminuir as desigualdades sofridas pelos &ndash; segundo o ent&atilde;o presidente &ndash; &ldquo;desfavorecidos de fortuna&rdquo;.</p>

@@ -1,6 +1,6 @@
 <div class="container">
-
-<p>Para adquirir o ingresso, primeiro faça a reserva da sua mesa, enviando uma mensagem via whatsapp para xx-xxxxx-xxxx</p>
+<h1>Adquira seu ingresso para o baile</h1>
+<p>Para adquirir o ingresso para o baile, primeiro faça a reserva da sua mesa, enviando uma mensagem via whatsapp para xx-xxxxx-xxxx</p>
 <p>
     Em seguida faça o <strong>depósito identificado</strong> na:<br />
     C/C: 37.669-8<br />
@@ -11,6 +11,7 @@
     CNPJ: 25.196.005/0001-62<br />
 </p>
 <p>Após realizar o depósito, envie nova mensagem com imagem do comprovante, ou arquivo .pdf do comprovante e sua identificação, para o whatsaap xx-xxxxx-xxxx</p>
+<p>A reserva realizada por whatsapp, será mantida por apenas um dia, para evitar o "aprisionamento de mesa".</p>
 <p>O pagamento somente será validado após identificação no extrato da conta bancária, por isso é importante enviar o comprovante e se identificar na hora da realização do depósito.</p>
 <p>Abaixo você pode acompanhar o mapa das mesas da festa.</p>
 <p>Não deixe para a última hora.</p>
@@ -28,11 +29,11 @@
     </tr>
     <tr>
         <td><img src="./images/mesaOrange.png" alt="icone de mesa"></td>
-        <td>Mesa Aguardando Confirmação de Pagamento</td>
+        <td>Mesa Reservada</td>
     </tr>
     <tr>
         <td><img src="./images/mesaRed.png" alt="icone de mesa"></td>
-        <td>Mesa Confirmada</td>
+        <td>Mesa Adquirida</td>
     </tr>
 </table>
 <hr />
@@ -59,7 +60,7 @@
 
                         while (($resultado = $consulta->fetch(PDO::FETCH_OBJ)) && ($mesa <= 59)){
         
-                            if ($mesa % 6 == 0) echo "<div class='clear'></div>";
+                            if ($mesa % 5 == 0) echo "<div class='clear'></div>";
                             ?>
                             <div class="<?php echo $resultado->situacao; ?>">
                                 <div class="textomesa">
@@ -100,7 +101,7 @@
                             </div>
 
                         <?php 
-                        if ($mesa1 % 6 == 0) echo "<div class='clear'></div>";
+                        if ($mesa1 % 5 == 0) echo "<div class='clear'></div>";
                         $mesa1++;
                         } ?>    
 

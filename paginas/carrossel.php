@@ -16,9 +16,9 @@
              <img class="first-slide" src="images/1.jpg" alt="First slide">
                 <div class="container">
                     <div class="carousel-caption">
-                        <h1>EAF-Cuiabá 75 Anos!</h1>
-                        <p>Festa para egressos, aposentados e comunidade</p>
-                        <p><a class="btn btn-lg btn-primary" href="#" role="button">Inscreva-se</a></p>
+                        <h1></h1>
+                        <p></p>
+                        <p><a class="btn btn-lg btn-primary" href="#" role="button">Adquira seu ingresso para o baile</a></p>
                     </div>
                 </div>
             </div>
@@ -28,8 +28,8 @@
                 <div class="container">
                     <div class="carousel-caption">
                         <h1>Nossa história</h1>
-                        <p>No começo era o início, mais tarde, com muito esforço veio o meio....</p>
-                        <p><a class="btn btn-lg btn-primary" href="#" role="button">Leia mais</a></p>
+                        <p>De <strong>Aprendizado Agrícola Mato Grosso</strong> até <strong>Instituto Federal de Mato Grosso</strong></p>
+                        <p><a class="btn btn-lg btn-primary" href="?p=historia" role="button">Conheça nossa história</a></p>
                     </div>
                 </div>
             </div>

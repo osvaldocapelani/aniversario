@@ -7,9 +7,9 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="icon" href="images/brand.svg">
+    <link rel="icon" href="images/icoBarra.svg">
 
-    <title>Carousel Template for Bootstrap</title>
+    <title>Aniversário de 75 anos do <em>Campus</em> São Vicente</title>
 
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
