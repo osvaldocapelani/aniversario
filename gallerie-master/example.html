@@ -35,3 +35,42 @@ $(document).ready(function(){
 </div>
 </body>
 </html>
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="http://workif.ifmt.edu.br/wordpress/xmlrpc.php">
+<title>Certificados VIII Jornada Científica</title>
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+
+
+</head>
+	<body>
+		<div class="container">
+		
+		<h3>Certificados de Apresentação de trabalhos</h3>
+		
+		<?php
+
+		$dir    = './';
+		$files1 = scandir($dir);
+
+
+			foreach($files1 as $nome){
+				if ($nome == "index.php" or $nome == "." or $nome == ".."  ){
+					echo "";
+				} else {
+					echo "<p>";
+						echo $i . " <a href=' " . $nome . " ' target='_blank'>".$nome."</a><br />";
+					echo "</p>";
+				}
+			}
+	
+		?>
+		</div>
+	</body>
+</html>

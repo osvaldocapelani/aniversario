@@ -28,7 +28,7 @@
     <tr>
         <td colspan="7">
             <ul>
-                <li>Diárias em regime de pensão completa om iício 17 horas e término 15 horas (jantar, café da manhã e almoço)</li>
+                <li>Diárias em regime de pensão completa com início 17 horas e término 15 horas (jantar, café da manhã e almoço)</li>
                 <li>Criança até cinco anos é cortesia. Duas crianças entre 06 e 12 anos, no mesmo apartamento dos pais 01 é cortesia</li>
             </ul>
         </td>
@@ -79,6 +79,7 @@
     </tr>
     <tr>
         <td colspan="7">
+            <strong>Site:</strong> <a href="http://hotelpequenomundo.com.br" target="_blank">http://hotelpequenomundo.com.br</a> <br />
             <strong>e-mail:</strong> hotelpequenomundo@terra.com.br<br />
             <strong>Fone:</strong> (66) 3419-2438 <strong>Tele-fax:</strong> (66) 3419-4899<br />
             Av. Marino Cattani, esquina com rua Belém - Bairro Campo Real - Campo Verde - MT 
