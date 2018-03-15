@@ -60,7 +60,7 @@ else //Se houver um dado enviado por post
 				$atualizar = $db->prepare($sql);//prepara a atualização para evitar sql injection
 				$atualizar->execute(); //executa a atualização
 				echo "<p>Atualização Realizada com Sucesso para mesa $mesa, em nome de <strong>$reservadoPor</strong>.</p>";
-				echo "</p><a href=\"./index.php \" target=\"self\" >Clique aqui para continuar!</a></p>";
+				echo "</p><a href='./index.php' target='_self' >Clique aqui para continuar!</a></p>";
 			} 
 			catch(PDOException $e) {
 					echo $e -> getMessage(); //Se não conseguiu fazer a atualização retorna um erro

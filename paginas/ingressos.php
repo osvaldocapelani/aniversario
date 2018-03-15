@@ -45,19 +45,31 @@
         <tr>
             <td>
             <?php
-                $mesa = 60;
-                while ($mesa >= 1){
-                if ($mesa % 6 == 0) echo "<div class='clear'></div>";
-                    ?>
-                    <div class="mesagreen">
-                        <div class="textomesa">
-                            <?php echo $mesa; ?>
-                        </div>
-                    </div>
-                <?php
-                    $mesa--;
-                }
-                ?>       
+                $mesa = 0;
+                
+                    include "./banco/conecta.php";
+                    $sql ="SELECT * FROM mesas"; //Consulta
+                    try{
+                            $consulta = $db->prepare($sql);//prepara a consulta para evitar sql injection
+                            $consulta->execute(); //executa a consulta
+                        } 
+                    catch(PDOException $e) {
+                                echo $e -> getMessage(); //Se não conseguiu fazer a consulta retorna um erro
+                        }
+
+                        while (($resultado = $consulta->fetch(PDO::FETCH_OBJ)) && ($mesa <= 59)){
+        
+                            if ($mesa % 6 == 0) echo "<div class='clear'></div>";
+                            ?>
+                            <div class="<?php echo $resultado->situacao; ?>">
+                                <div class="textomesa">
+                                    <?php echo $resultado->mesa; ?> 
+                                </div>
+                            </div>
+
+                        <?php 
+                        $mesa++;
+                        } ?>       
             </td>
     <td>
         <div class="corredor">
@@ -66,21 +78,32 @@
     </td>
             <td>
                 <?php
-                    $mesa = 120;
-                    while ($mesa >= 61){
-                        if ($mesa % 6 == 0) echo "<div class='clear'></div>";
+                    $mesa1 = 61;
+                
+                    $sql ="SELECT * FROM mesas WHERE id > 60"; //Consulta
+                    try{
+                            $consulta = $db->prepare($sql);//prepara a consulta para evitar sql injection
+                            $consulta->execute(); //executa a consulta
+                        } 
+                    catch(PDOException $e) {
+                                echo $e -> getMessage(); //Se não conseguiu fazer a consulta retorna um erro
+                        }
+                        echo"<br />";//arrumando o alinhamento
+                        while (($resultado1 = $consulta->fetch(PDO::FETCH_OBJ)) && ($mesa1 <= 120)){
+        
+                            
                             ?>
-
-                            <div class="mesagreen">
+                            <div class="<?php echo $resultado1->situacao; ?>">
                                 <div class="textomesa">
-                                    <?php echo $mesa; ?>
+                                    <?php echo $resultado1->mesa; ?> 
                                 </div>
                             </div>
-                        <?php
 
-                        $mesa--;
-                    }
-                ?>        
+                        <?php 
+                        if ($mesa1 % 6 == 0) echo "<div class='clear'></div>";
+                        $mesa1++;
+                        } ?>    
+
             </td>
 
         </tr>
