@@ -31,5 +31,20 @@
 		?>
 			
 	</table>
+
+	Gera sql das mesas<br />
+	INSERT INTO `mesas` (`id`, `mesa`, `situacao`, `reservadoPor`) VALUES<br />
+	<?php
+	for ($i = 3; $i <= 120; $i++){
+		echo "(NULL, '$i', 'mesagreen', 'ninguém'), <br />";
+	}
+	?>
+<br />
+UPDATE `mesas` SET `situacao` = 'mesaorange' WHERE `mesas`.`id` = 38;<br />
+UPDATE `mesas` SET `situacao` = 'mesaorange' WHERE `mesas`.`id` = 39;<br />
+UPDATE `mesas` SET `situacao` = 'mesaorange' WHERE `mesas`.`id` = 31;<br />
+UPDATE `mesas` SET `situacao` = 'mesaorange' WHERE `mesas`.`id` = 32;<br />
+
+
 </body>
 </html>

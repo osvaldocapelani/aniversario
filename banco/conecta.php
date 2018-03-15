@@ -1,11 +1,11 @@
 <?php
 
-$conn = 'mysql:host=localhost;dbname=banco';
+$conn = 'mysql:host=localhost;dbname=75anos';
 
 
 try {
 //     conecta ao banco,'login','senha'	
-	$db = new PDO($conn,'root','SUA_SENHA_AQUI');
+	$db = new PDO($conn,'root','bagdarnm');
 	
 	$db->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 

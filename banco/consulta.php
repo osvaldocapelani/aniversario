@@ -4,7 +4,7 @@ include "conecta.php";
 
 //criando a sql de inserção no banco
 
-	$sql ="SELECT * FROM teste"; //Consulta 
+	$sql ="SELECT * FROM mesas"; //Consulta 
 		try{
 				$consulta = $db->prepare($sql);//prepara a consulta para evitar sql injection
 				$consulta->execute(); //executa a consulta
