@@ -40,11 +40,11 @@
 
   <div class="row featurette">
     <div class="col-md-7">
-      <h2 class="featurette-heading">Porque nós o usamos? <span class="text-muted">É simples</span></h2>
-      <p class="lead">É um fato conhecido de todos que um leitor se distrairá com o conteúdo de texto legível de uma página quando estiver examinando sua diagramação. A vantagem de usar Lorem Ipsum é que ele tem uma distribuição normal de letras, ao contrário de "Conteúdo aqui, conteúdo aqui", fazendo com que ele tenha uma aparência similar a de um texto legível. Muitos softwares de publicação e editores de páginas na internet agora usam Lorem Ipsum como texto-modelo padrão, e uma rápida busca por 'lorem ipsum' mostra vários websites ainda em sua fase de construção. Várias versões novas surgiram ao longo dos anos, eventualmente por acidente, e às vezes de propósito (injetando humor, e coisas do gênero).</p>
+      <h2 class="featurette-heading">Nossa História <span class="text-muted">nossas conquistas</span></span></h2>
+      <p class="lead">A Origem e História dos IF’s - Institutos Federais de Educação, Ciência e Tecnologia insere-se e compõe o processo de transformação socioeconômico e cultural do país desde o inicio do século passado, mais precisamente desde 23 de setembro de 1909, quando o Governo Federal criou por meio do Decreto nº 7.566, a Rede Federal de Educação Profissional e Tecnológica, instituindo um conjunto de "Escolas de Aprendizes e Artífices", destinadas ao ensino profissional primário e gratuito com o intuito de prover as necessidades e diminuir as desigualdades sofridas pelos – segundo o então presidente – "desfavorecidos de fortuna"... <a href="?p=historia">Leia mais</a></p>
     </div>
     <div class="col-md-5">
-      <img src="images/500.svg " alt="Generic placeholder image">
+      <img src="images/historia1945.jpg" alt="Generic placeholder image">
     </div>
   </div>
 

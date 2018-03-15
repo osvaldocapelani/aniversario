@@ -1,21 +1,53 @@
 <div class="container">
 <h1>Adquira seu ingresso para o baile</h1>
-<p>Para adquirir o ingresso para o baile, primeiro faça a reserva da sua mesa, enviando uma mensagem via whatsapp para xx-xxxxx-xxxx</p>
-<p>
-    Em seguida faça o <strong>depósito identificado</strong> na:<br />
-    C/C: 37.669-8<br />
-    Agência: 3037-6<br />
-    Banco do Brasil<br />
-    <strong>Associação do Centro Acadêmico de Zootecnia IFMT Campus São Vicente<br /></strong>
+<p>Para adquirir o seu ingresso para o baile, siga estes passos:</p>
+<p>1. Escolha o item que deseja adquirir:</p>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-4">
+            <div class="lotes">
+                <center><img src="images/indisponivel.svg" alt=""></center>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="lotesnao">
+                <center><img src="images/indisponivel2.svg" alt=""></center>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="lotesnao">
+                <center><img src="images/indisponivel3.svg" alt=""></center>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<p style="text-align: center;"> <br /><strong>Não deixe para a última hora. Ingressos limitados!</strong></p>
+
+<p>2. Faça um depósito identificado, no valor correspondente, conforme os dados abaixo:</p>
+
+<div class="banco">
+    Banco do Brasil <br />
+    Agência: 3037-6 C/C: 37.669-8<br />
+    Em nome da Associação do Centro Acadêmico de Zootecnia IFMT Campus São Vicente<br />
     Favorecidos: Josilene Correa Rocha e Miller de Jesus Teodoro<br />
-    CNPJ: 25.196.005/0001-62<br />
-</p>
-<p>Após realizar o depósito, envie nova mensagem com imagem do comprovante, ou arquivo .pdf do comprovante e sua identificação, para o whatsaap xx-xxxxx-xxxx</p>
-<p>A reserva realizada por whatsapp, será mantida por apenas um dia, para evitar o "aprisionamento de mesa".</p>
-<p>O pagamento somente será validado após identificação no extrato da conta bancária, por isso é importante enviar o comprovante e se identificar na hora da realização do depósito.</p>
-<p>Abaixo você pode acompanhar o mapa das mesas da festa.</p>
-<p>Não deixe para a última hora.</p>
-<p>As confirmações das mesas serão feitas em ordem de recebimento do comprovante de depósito recebidos no whatsapp.</p>
+    CNPJ: 25.196.005/0001-62
+</div>
+
+<br />
+
+
+<p>3. Envie via mensagem de Whastapp (para o número 66-98114-0846 o comprovante do depósito e o número da mesa desejada. A sua compra será efetivada após a confirmação do crédito na conta bancária.</p>
+
+<p>4. Você receberá uma mensagem confirmando a compra.</p>
+
+<p>5. A retirada do ingresso (mesa ou individual) deverá ser feita no dia da festa, mediante documento de identificação do comprador.</p>
+
+<p style="text-align: center;"> <br /><strong>Obs: As confirmações das mesas serão feitas em ordem de recebimento do comprovante de depósito. </strong></p>
+
+<hr class="style-one">
 
 <table align="center">
     <tr>
