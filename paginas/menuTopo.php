@@ -21,6 +21,7 @@
                         <li><a href="?p=hoteis">Hotéis</a></li>
                         <li><a href="?p=ingressos">Adquira seu ingresso</a></li>
                         <li><a href="?p=fotos">Fotos da festa</a></li>
+                        <li><a href="?p=colabore">Colabore</a></li>
                         <li><a href="?p=contato">Contato</a></li>
                         <!--
                         <li class="dropdown">
