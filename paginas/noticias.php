@@ -26,17 +26,17 @@
 
   <hr class="featurette-divider">
 
-  <div class="row featurette">
+<div class="row featurette">
     <div class="col-md-7 col-md-push-5">
       <h2 class="featurette-heading"></span></h2>
       <p class="lead">
-      <p style="text-align:center"><strong>Programação</strong></p>
-          <p style="text-align:center">
+      <p class="lead"><strong>Programação</strong></p>
+          <p class="lead"">
             <strong>Sábado &ndash; 14 de abril</strong><br />
             22h &ndash; Baile (GInásio Júlio Muller)<br />
             Animação: Banda Bis
           </p>
-          <p style="text-align:center">
+          <p class="lead">
             <strong>Domingo &ndash; 15 de abril</strong><br />
             7h30 &ndash; Recepção e café da manhã (Restaurante)<br />
             8h &ndash; Visita ao Câmpus<br />
@@ -51,7 +51,7 @@
       </p>
     </div>
     <div class="col-md-5 col-md-pull-7">
-      <img src="images/programacao.png" width="350px" alt="Programação">
+      <a href="?p=programacao"><img src="images/programacao.png" width="350px" alt="Programação"></a>
     </div>
   </div>
 
