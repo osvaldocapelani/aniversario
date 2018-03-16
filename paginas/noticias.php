@@ -28,11 +28,30 @@
 
   <div class="row featurette">
     <div class="col-md-7 col-md-push-5">
-      <h2 class="featurette-heading">De onde ele vem? <span class="text-muted">Incrível.</span></h2>
-      <p class="lead">Ao contrário do que se acredita, Lorem Ipsum não é simplesmente um texto randômico. Com mais de 2000 anos, suas raízes podem ser encontradas em uma obra de literatura latina clássica datada de 45 AC. Richard McClintock, um professor de latim do Hampden-Sydney College na Virginia, pesquisou uma das mais obscuras palavras em latim, consectetur, oriunda de uma passagem de Lorem Ipsum, e, procurando por entre citações da palavra na literatura clássica, descobriu a sua indubitável origem. Lorem Ipsum vem das seções 1.10.32 e 1.10.33 do "de Finibus Bonorum et Malorum" (Os Extremos do Bem e do Mal), de Cícero, escrito em 45 AC. Este livro é um tratado de teoria da ética muito popular na época da Renascença. A primeira linha de Lorem Ipsum, "Lorem Ipsum dolor sit amet..." vem de uma linha na seção 1.10.32.</p>
+      <h2 class="featurette-heading"></span></h2>
+      <p class="lead">
+      <p style="text-align:center"><strong>Programação</strong></p>
+          <p style="text-align:center">
+            <strong>Sábado &ndash; 14 de abril</strong><br />
+            22h &ndash; Baile (GInásio Júlio Muller)<br />
+            Animação: Banda Bis
+          </p>
+          <p style="text-align:center">
+            <strong>Domingo &ndash; 15 de abril</strong><br />
+            7h30 &ndash; Recepção e café da manhã (Restaurante)<br />
+            8h &ndash; Visita ao Câmpus<br />
+            9h &ndash; Hora cívica (pavilhão Pedagógico)<br />
+            9h30 &ndash; Plantio de Árvores<br />
+            10h &ndash; Solenidade de abertura<br />
+            (Auditório Jonas Pinheiro)<br />
+            11h &ndash; Fundação da Associação do Ex-alunos do IFMT<br />
+            São Vicente - AEAIFMT<br />
+            12h &ndash; Almoço (Ginásio Júlio Muller)<br />
+          </p>
+      </p>
     </div>
     <div class="col-md-5 col-md-pull-7">
-      <img src="images/500.svg " alt="Generic placeholder image">
+      <img src="images/programacao.png" width="350px" alt="Programação">
     </div>
   </div>
 
@@ -44,7 +63,7 @@
       <p class="lead">A Origem e História dos IF’s - Institutos Federais de Educação, Ciência e Tecnologia insere-se e compõe o processo de transformação socioeconômico e cultural do país desde o inicio do século passado, mais precisamente desde 23 de setembro de 1909, quando o Governo Federal criou por meio do Decreto nº 7.566, a Rede Federal de Educação Profissional e Tecnológica, instituindo um conjunto de "Escolas de Aprendizes e Artífices", destinadas ao ensino profissional primário e gratuito com o intuito de prover as necessidades e diminuir as desigualdades sofridas pelos – segundo o então presidente – "desfavorecidos de fortuna"... <a href="?p=historia">Leia mais</a></p>
     </div>
     <div class="col-md-5">
-      <img src="images/historia1945.jpg" alt="Generic placeholder image">
+      <img src="images/historia1945.jpg" alt="Nossa história">
     </div>
   </div>
 
