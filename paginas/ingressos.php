@@ -1,5 +1,7 @@
 <div class="container">
+
 <h1>Adquira seu ingresso para o baile</h1>
+<h3>O baile será animado pela Banda Bis (<a href="https://www.facebook.com/bandabisoficial/" target="_blank">Facebook bandabisoficial/</a>) e a compra do ingresso dá direito a buffet de frios e salgadinhos.</h3>
 <p>Para adquirir o seu ingresso para o baile, siga estes passos:</p>
 <p>1. Escolha o item que deseja adquirir:</p>
 
@@ -45,7 +47,7 @@
 
 <p>5. A retirada do ingresso (mesa ou individual) deverá ser feita no dia da festa, mediante documento de identificação do comprador.</p>
 
-<p style="text-align: center;"> <br /><strong>Obs: As confirmações das mesas serão feitas em ordem de recebimento do comprovante de depósito. </strong></p>
+<p style="text-align: center;"> <br /><strong>Obs: As confirmações das mesas serão feitas em ordem de recebimento do comprovante de depósito. <br />PROIBIDA A ENTRADA DE CERVEJA.</strong></p>
 
 <hr class="style-one">
 
@@ -78,10 +80,12 @@
         <tr>
             <td>
             <?php
-                $mesa = 0;
+                $mesa = 120;
+                $array = array(115, 105, 95, 85, 75, 65, 55, 45, 35, 25, 15, 5); 
+                
                 
                     include "./banco/conecta.php";
-                    $sql ="SELECT * FROM mesas"; //Consulta
+                    $sql ="SELECT * FROM mesas ORDER BY id DESC"; //Consulta
                     try{
                             $consulta = $db->prepare($sql);//prepara a consulta para evitar sql injection
                             $consulta->execute(); //executa a consulta
@@ -90,10 +94,13 @@
                                 echo $e -> getMessage(); //Se não conseguiu fazer a consulta retorna um erro
                         }
 
-                        while (($resultado = $consulta->fetch(PDO::FETCH_OBJ)) && ($mesa <= 59)){
+                        while (($resultado = $consulta->fetch(PDO::FETCH_OBJ)) && ($mesa >= 1)){
         
-                            if ($mesa % 5 == 0) echo "<div class='clear'></div>";
+if ($mesa % 10 == 0) echo "<div class='clear'></div>\n";
+if (in_array($mesa, $array, true))echo "<div class='corredor'>&nbsp;</div>\n";
+
                             ?>
+
                             <div class="<?php echo $resultado->situacao; ?>">
                                 <div class="textomesa">
                                     <?php echo $resultado->mesa; ?> 
@@ -101,45 +108,13 @@
                             </div>
 
                         <?php 
-                        $mesa++;
+                        
+                        $mesa--;
+                        
                         } ?>       
             </td>
-    <td>
-        <div class="corredor">
-            &nbsp;
-        </div>
-    </td>
-            <td>
-                <?php
-                    $mesa1 = 61;
-                
-                    $sql ="SELECT * FROM mesas WHERE id > 60"; //Consulta
-                    try{
-                            $consulta = $db->prepare($sql);//prepara a consulta para evitar sql injection
-                            $consulta->execute(); //executa a consulta
-                        } 
-                    catch(PDOException $e) {
-                                echo $e -> getMessage(); //Se não conseguiu fazer a consulta retorna um erro
-                        }
-                        echo"<br />";//arrumando o alinhamento
-                        while (($resultado1 = $consulta->fetch(PDO::FETCH_OBJ)) && ($mesa1 <= 120)){
-        
-                            
-                            ?>
-                            <div class="<?php echo $resultado1->situacao; ?>">
-                                <div class="textomesa">
-                                    <?php echo $resultado1->mesa; ?> 
-                                </div>
-                            </div>
-
-                        <?php 
-                        if ($mesa1 % 5 == 0) echo "<div class='clear'></div>";
-                        $mesa1++;
-                        } ?>    
-
-            </td>
-
         </tr>
+            
     <tr>
         <td colspan="3">
             <img src="./images/pista.svg" alt="">

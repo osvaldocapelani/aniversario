@@ -1,48 +1,7 @@
 <div class="container">
 <h1>Hotéis conveniados</h1>
 
-<table class="table stripped">
-    <tr>
-       <td colspan="7">
-            <span style="color: blue;"><h3>Hotel Mato Grosso Águas Quentes</h3></span> <a href="https://goo.gl/maps/odeMTbpwo5N2" target="_blank">Veja a localização do Hotel Mato Grosso Águas Quentes no Google Mapas</a>
-       </td>
-    </tr>
-    <tr>
-        <th><strong>Apartamento</strong></th>
-        <th>1 pessoa</th>
-        <th>2 pessoas</th>
-        <th>3 pessoas</th>
-        <th>4 pessoas</th>
-        <th>5 pessoas</th>
-        <th>6 pessoas</th>
-    </tr>
-    <tr>
-        <td><strong>Apartamentos</strong></td>
-        <td> - </td>
-        <td>R$328,00</td>
-        <td>R$288,00</td>
-        <td>R$254,00</td>
-        <td>R$238,00</td>
-        <td>R$217,00</td>
-    </tr>
-    <tr>
-        <td colspan="7">
-            <ul>
-                <li>Diárias em regime de pensão completa com início 17 horas e término 15 horas (jantar, café da manhã e almoço)</li>
-                <li>Criança até cinco anos é cortesia. Duas crianças entre 06 e 12 anos, no mesmo apartamento dos pais 01 é cortesia</li>
-            </ul>
-        </td>
-    </tr>
-    <tr>
-        <td colspan="7">
-            <strong>e-mail:</strong> reserva.aguasquentes3@hotelmt.com.br<br />
-            <strong>Fone:</strong> (65) 3614-7500<br />
-            Endereço: <a href="https://goo.gl/maps/odeMTbpwo5N2" target="_blank">Veja o mapa</a>
-        </td>
-    </tr>
-</table>
 
-<hr class="style-one" />
 
 <table class="table stripped">
     <tr>
@@ -87,8 +46,9 @@
     </tr>
 </table>
 
-
 <hr class="style-one" />
+
+
 
 <table class="table stripped">
     <tr>
@@ -116,6 +76,52 @@
             <strong>e-mail:</strong> - <br />
             <strong>Fone:</strong> (65) 98147-1777<br />
             <a href="https://goo.gl/maps/Y6tPdoYogYB2" target="_blank">Veja o mapa</a>
+        </td>
+    </tr>
+</table>
+
+
+
+<hr class="style-one" />
+
+
+<table class="table stripped">
+    <tr>
+       <td colspan="7">
+            <span style="color: blue;"><h3>Hotel Mato Grosso Águas Quentes</h3></span> <a href="https://goo.gl/maps/odeMTbpwo5N2" target="_blank">Veja a localização do Hotel Mato Grosso Águas Quentes no Google Mapas</a>
+       </td>
+    </tr>
+    <tr>
+        <th><strong>Apartamento</strong></th>
+        <th>1 pessoa</th>
+        <th>2 pessoas</th>
+        <th>3 pessoas</th>
+        <th>4 pessoas</th>
+        <th>5 pessoas</th>
+        <th>6 pessoas</th>
+    </tr>
+    <tr>
+        <td><strong>Apartamentos</strong></td>
+        <td> - </td>
+        <td>R$328,00</td>
+        <td>R$288,00</td>
+        <td>R$254,00</td>
+        <td>R$238,00</td>
+        <td>R$217,00</td>
+    </tr>
+    <tr>
+        <td colspan="7">
+            <ul>
+                <li>Diárias em regime de pensão completa com início 17 horas e término 15 horas (jantar, café da manhã e almoço)</li>
+                <li>Criança até cinco anos é cortesia. Duas crianças entre 06 e 12 anos, no mesmo apartamento dos pais 01 é cortesia</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="7">
+            <strong>e-mail:</strong> reserva.aguasquentes3@hotelmt.com.br<br />
+            <strong>Fone:</strong> (65) 3614-7500<br />
+            Endereço: <a href="https://goo.gl/maps/odeMTbpwo5N2" target="_blank">Veja o mapa</a>
         </td>
     </tr>
 </table>

@@ -3,21 +3,21 @@
             background: url(../images/mesaGreen.png) bottom right;
             width: 41px;
             height: 41px;
-            margin-left: 5px;
+            margin-left: 10px;
         }
         .mesaorange{
             float: left;
             background: url(../images/mesaOrange.png) bottom right;
             width: 41px;
             height: 41px;
-            margin-left: 5px;  
+            margin-left: 10px;  
         }
         .mesared{
             float: left;
             background: url(../images/mesaRed.png) bottom right;
             width: 41px;
             height: 41px;
-            margin-left: 5px;
+            margin-left: 10px;
         }
         .textomesa{
             padding-top: 9px;
@@ -30,8 +30,9 @@
              height:10px;
         }
         .corredor{
+            float: left;
             background: url(../images/corredor.svg);
-            width: 50px;
+            width: 100px;
             height: 100%;
         }
         hr.style-one {

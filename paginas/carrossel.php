@@ -18,7 +18,7 @@
                     <div class="carousel-caption">
                         <h1></h1>
                         <p></p>
-                        <p><a class="btn btn-lg btn-primary" href="#" role="button">Adquira seu ingresso para o baile</a></p>
+                        <p><a class="btn btn-lg btn-primary" href="?p=historia" role="button">Conheça nossa história</a></p>
                     </div>
                 </div>
             </div>
@@ -29,7 +29,7 @@
                     <div class="carousel-caption">
                         <h1>Nossa história</h1>
                         <p>De <strong>Aprendizado Agrícola Mato Grosso</strong> até <strong>Instituto Federal de Mato Grosso</strong></p>
-                        <p><a class="btn btn-lg btn-primary" href="?p=historia" role="button">Conheça nossa história</a></p>
+                        <p><a class="btn btn-lg btn-primary" href="?p=fotosAntigas" role="button">Veja as fotos</a></p>
                     </div>
                 </div>
             </div>
@@ -38,9 +38,9 @@
                 <img class="third-slide" src="images/3.jpg" alt="Third slide">
                 <div class="container">
                     <div class="carousel-caption">
-                        <h1>HOJE</h1>
-                        <p>O passado já foi, mas agora é hora de relembrar</p>
-                        <p><a class="btn btn-lg btn-primary" href="#" role="button">Veja as fotos</a></p>
+                        <h1>Banda BIS</h1>
+                        <p>A nossa missão é encantar você e seus convidados, tornando o seu Evento inesquecível!</p>
+                        <p><a class="btn btn-lg btn-primary" href="?p=ingressos" role="button">Adquira seu ingresso para o baile</a></p>
                     </div>
                 </div>
             </div>
@@ -59,3 +59,9 @@
     </div><!-- /.carousel -->
 
 </div>
+
+<!-- Marketing messaging and featurettes
+================================================== -->
+<!-- Wrap the rest of the page in another container to center all the content. -->
+
+<div class="container marketing">
