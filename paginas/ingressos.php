@@ -1,34 +1,22 @@
 <div class="container">
 
 <h1>Adquira seu ingresso para o baile</h1>
-<h3>O baile será animado pela Banda Bis (<a href="https://www.facebook.com/bandabisoficial/" target="_blank">Facebook bandabisoficial/</a>) e a compra do ingresso dá direito a buffet de frios e salgadinhos.</h3>
+<h3>O baile será animado pela <a href="https://www.facebook.com/bandabisoficial/" target="_blank">Banda Bis</a> e a compra do ingresso dá direito a buffet de frios e salgadinhos.</h3>
 <p>Para adquirir o seu ingresso para o baile, siga estes passos:</p>
-<p>1. Escolha o item que deseja adquirir:</p>
+<p><strong>1. Escolha o item que deseja adquirir:</strong></p>
 
 <div class="container">
-    <div class="row">
-        <div class="col-md-4">
+    
             <div class="lotes">
-                <center><img src="images/indisponivel.svg" alt=""></center>
+                <img src="./images/lote01.jpg" width="100%" alt="Ingressos à venda"
             </div>
-        </div>
-        <div class="col-md-4">
-            <div class="lotesnao">
-                <center><img src="images/indisponivel2.svg" alt=""></center>
-            </div>
-        </div>
-        <div class="col-md-4">
-            <div class="lotesnao">
-                <center><img src="images/indisponivel3.svg" alt=""></center>
-            </div>
-        </div>
-    </div>
+       
 </div>
 
 
 <p style="text-align: center;"> <br /><strong>Não deixe para a última hora. Ingressos limitados!</strong></p>
 
-<p>2. Faça um depósito identificado, no valor correspondente, conforme os dados abaixo:</p>
+<p><strong>2. Faça um depósito identificado, no valor correspondente, conforme os dados abaixo:</strong></p>
 
 <div class="banco">
     Banco do Brasil <br />
@@ -41,11 +29,11 @@
 <br />
 
 
-<p>3. Envie via mensagem de Whastapp (para o número 66-98114-0846 o comprovante do depósito e o número da mesa desejada. A sua compra será efetivada após a confirmação do crédito na conta bancária.</p>
+<p><strong>3. Envie por mensagem de Whastapp (para o número 66-98114-0846) o comprovante do depósito e o número da mesa desejada. A sua compra será efetivada após a confirmação do crédito na conta bancária.</strong></p>
 
-<p>4. Você receberá uma mensagem confirmando a compra.</p>
+<p><strong>4. Você receberá uma mensagem confirmando a compra.</strong></p>
 
-<p>5. A retirada do ingresso (mesa ou individual) deverá ser feita no dia da festa, mediante documento de identificação do comprador.</p>
+<p><strong>5. A retirada do ingresso (mesa ou individual) deverá ser feita até o dia da festa, na sede do câmpus, mediante documento de identificação do comprador.</strong></p>
 
 <p style="text-align: center;"> <br /><strong>Obs: As confirmações das mesas serão feitas em ordem de recebimento do comprovante de depósito. <br />PROIBIDA A ENTRADA DE CERVEJA.</strong></p>
 

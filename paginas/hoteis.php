@@ -1,6 +1,15 @@
 <div class="container">
 <h1>Hotéis conveniados</h1>
 
+<p>
+Para você e seus amigos aproveitarem ainda mais esta grandiosa festa, o IFMT São Vicente disponibilizará salas de aula para servir de dormitório para grupos fechados, de aproximadamente 20 pessoas. 
+</p>
+<p>
+Uma Área para camping também será disponibilizada para os que preferirem dormir em barracas e curtir mais de perto a natureza. Para os que pernoitarem na escola, o vestiário estará pronto para atendê-los.
+</p>
+<p>
+Outra opção são os hotéis conveniados, relacionados abaixo, que se localizam no município de Campo Verde (45km) e Águas Quentes (20km).
+</p>
 
 
 <table class="table stripped">

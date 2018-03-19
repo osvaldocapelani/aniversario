@@ -18,13 +18,13 @@
                         <li><a href="?p=historia">História</a></li>
                         <li><a href="?p=fotosAntigas">Fotos Antigas</a></li>
                         <li><a href="?p=programacao">Programação</a></li>
-                        <li><a href="?p=hoteis">Hotéis</a></li>
+                        <li><a href="?p=hoteis">Estadia</a></li>
                         <li><a href="?p=ingressos">Adquira seu ingresso</a></li>
                         <li><a href="?p=fotos">Fotos da festa</a></li>
                         <li><a href="?p=colabore">Colabore</a></li>
                         <li><a href="?p=contato">Contato</a></li>
-                        <li><a href="?p=patrocinio">Patrocínio</a></li>
-                        <!--
+                        <!--<li><a href="?p=patrocinio">Patrocínio</a></li>
+                        
                         <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
                         <ul class="dropdown-menu">
